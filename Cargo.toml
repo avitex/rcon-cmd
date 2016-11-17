@@ -1,0 +1,8 @@
+[package]
+name = "rcon-cmd"
+version = "1.0.0"
+authors = ["James Dyson <theavitex@gmail.com>"]
+
+[dependencies]
+rcon = "*"
+clap = "*"
